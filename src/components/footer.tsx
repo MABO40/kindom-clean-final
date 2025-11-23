@@ -124,19 +124,19 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <Phone className="w-5 h-5 text-blue-400 flex-shrink-0 mt-0.5" />
                 <div>
-                  <div className="text-gray-400">+33 1 23 45 67 89</div>
+                  <div className="text-gray-400">(438)223-2322</div>
                   <div className="text-gray-500 text-sm">Mon-Sun 24/7</div>
                 </div>
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-blue-400 flex-shrink-0 mt-0.5" />
-                <div className="text-gray-400">contact@kingdomcleen.fr</div>
+                <div className="text-gray-400">kingdomcleen@gmail.com</div>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-blue-400 flex-shrink-0 mt-0.5" />
                 <div className="text-gray-400">
-                  123 Avenue des Champs-Élysées<br />
-                  75008 Paris, France
+                  1338Wellington st.w,<br />
+                  ottawa,ONK1Y3B7
                 </div>
               </li>
             </ul>

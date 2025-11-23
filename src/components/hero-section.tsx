@@ -66,7 +66,7 @@ const ServicesAndDetailsSection = () => {
     "Bonded and insured Cleaner",
   ];
 
-  const founderStory = "kingdomcleen Clean founder Justine has been a Calgary cleaner for over 16 years, working with some of the city’s most elite home builders and owners. She uses organic cleaning products and prides herself on the fact that a baby could eat off the floor after she’s done. Kingdom Clean is bonded and insured.";
+  const founderStory = "kingdomcleen Clean founder Justine has been a Calgary cleaner for over 16 years, working with some of the city’s most elite home builders and owners. She uses organic cleaning products and prides herself on the fact that a baby could eat off the floor after she’s done. kingdomcleen is bonded and insured.";
   const serviceScope = "kingdomcleen Clean does residential cleaning, commercial cleaning, and move-in and move-out cleans in Calgary and the greater region.";
 
   return (
