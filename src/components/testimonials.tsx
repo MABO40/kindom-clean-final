@@ -8,7 +8,7 @@ const testimonials = [
     company: "TechCorp Solutions",
     role: "Directrice des Opérations",
     rating: 5,
-    text: "Kingdom Clean a transformé notre espace de travail. Leur professionnalisme et leur attention aux détails sont incomparables. Notre bureau n'a jamais été aussi propre!",
+    text: "kingdomcleen a transformé notre espace de travail. Leur professionnalisme et leur attention aux détails sont incomparables. Notre bureau n'a jamais été aussi propre!",
   },
   {
     name: "Ahmed Ben Ali",
@@ -22,7 +22,7 @@ const testimonials = [
     company: "MedicalCenter Pro",
     role: "Gestionnaire",
     rating: 5,
-    text: "En tant que centre médical, la propreté est primordiale. Kingdom Clean respecte tous nos protocoles sanitaires et va au-delà de nos attentes à chaque visite.",
+    text: "En tant que centre médical, la propreté est primordiale. kingdomcleen respecte tous nos protocoles sanitaires et va au-delà de nos attentes à chaque visite.",
   },
   {
     name: "Jean-Pierre Laurent",

@@ -66,8 +66,8 @@ const ServicesAndDetailsSection = () => {
     "Bonded and insured Cleaner",
   ];
 
-  const founderStory = "Kingdom Clean founder Justine has been a Calgary cleaner for over 16 years, working with some of the city’s most elite home builders and owners. She uses organic cleaning products and prides herself on the fact that a baby could eat off the floor after she’s done. Kingdom Clean is bonded and insured.";
-  const serviceScope = "Kingdom Clean does residential cleaning, commercial cleaning, and move-in and move-out cleans in Calgary and the greater region.";
+  const founderStory = "kingdomcleen Clean founder Justine has been a Calgary cleaner for over 16 years, working with some of the city’s most elite home builders and owners. She uses organic cleaning products and prides herself on the fact that a baby could eat off the floor after she’s done. Kingdom Clean is bonded and insured.";
+  const serviceScope = "kingdomcleen Clean does residential cleaning, commercial cleaning, and move-in and move-out cleans in Calgary and the greater region.";
 
   return (
     <section id="details" className="py-20 bg-gray-50">
@@ -147,7 +147,7 @@ export function HeroSection() {
       <section id="home" className="relative pt-20 min-h-screen flex items-center">
         {/* Background Image with Overlay */}
         <div className="absolute inset-0 z-0">
-          <img
+           <img
             src={heroImage}
             alt="Clean team illustration"
             className="w-full h-full object-cover"

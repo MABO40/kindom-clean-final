@@ -61,8 +61,8 @@ const ServicesAndDetailsSection = () => {
     "Bonded and insured Cleaner",
   ];
 
-  const founderStory = "Kingdom Clean founder Justine has been a Calgary cleaner, working with some of the city's most elite home builders and owners. She uses organic cleaning products and prides herself on the fact that a baby could eat off the floor after she's done. Kingdom Clean is bonded and insured.";
-  const serviceScope = "Kingdom Clean does residential cleaning, commercial cleaning, and move-in and move-out cleans in Calgary and the greater region.";
+  const founderStory = "kingdomcleen founder Justine has been a Calgary cleaner, working with some of the city's most elite home builders and owners. She uses organic cleaning products and prides herself on the fact that a baby could eat off the floor after she's done. kingdomcleenClean is bonded and insured.";
+  const serviceScope = "kingdomcleen does residential cleaning, commercial cleaning, and move-in and move-out cleans in Calgary and the greater region.";
 
   return (
     <section id="details" className="py-20 bg-gray-50">
