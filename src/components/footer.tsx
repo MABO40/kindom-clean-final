@@ -130,7 +130,7 @@ export function Footer() {
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-blue-400 flex-shrink-0 mt-0.5" />
-                <div className="text-gray-400">contact@kingdomclean.fr</div>
+                <div className="text-gray-400">contact@kingdomcleen.fr</div>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-blue-400 flex-shrink-0 mt-0.5" />
