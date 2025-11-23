@@ -1,5 +1,5 @@
 import { Facebook, Instagram, Linkedin, Twitter, Mail, Phone, MapPin } from "lucide-react";
-import logo from "figma:asset/167f8e554232ecd89e87f04cf4c5e3ebdce70503.png";
+import logo from "../assets/logo.png"; // Assurez-vous que le chemin est correct
 
 export function Footer() {
   const scrollToSection = (id: string) => {
@@ -16,8 +16,15 @@ export function Footer() {
           {/* Company Info */}
           <div>
             <div className="flex items-center gap-2 mb-6">
-              <img src={logo} alt="Kingdom Clean Logo" className="h-16 w-auto bg-transparent" style={{ mixBlendMode: 'multiply' }} />
-              <span className="text-xl">clean</span>
+              {/* Conteneur blanc pour le logo */}
+              <div className="bg-white p-2 rounded-lg inline-block">
+                <img 
+                  src={logo} 
+                  alt="Kingdom Clean Logo" 
+                  // Taille changée en h-20 comme demandé
+                  className="h-20 w-auto object-contain" 
+                />
+              </div>
             </div>
             <p className="text-gray-400 mb-6">
               Your trusted partner for impeccable commercial spaces for over 30 years.
